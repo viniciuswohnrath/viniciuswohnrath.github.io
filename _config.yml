@@ -24,28 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Vinicius Parolin Wohnrath"
+  bio              : "Political sociology, sociology of education, religion and politics, Latin America"
+  location         : "Mexico"
+  employer         : "National Autonomous University of Mexico"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vinicius.wohnrath@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  academia         : "https://unam1.academia.edu/ViniciusWohnrath"
+  googlescholar    : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
+  lattes           : "http://lattes.cnpq.br/1701305518221688"
+  orcid            : "https://orcid.org/0000-0001-5717-0906"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
