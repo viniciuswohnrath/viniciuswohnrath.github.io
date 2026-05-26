@@ -10,7 +10,7 @@ author_profile: false
 
 # Vinicius Wohnrath
 
-Postdoctoral Researcher | Universidad Nacional Autónoma de México (UNAM)
+Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)
 
 Sociology of education, Historical sociology, and political sociology in Latin America.
 
