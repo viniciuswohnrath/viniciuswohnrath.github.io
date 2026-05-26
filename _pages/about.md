@@ -19,13 +19,9 @@ classes: wide
 <h1 style="margin-top:0; margin-bottom:0.8rem; line-height:1.1;">Vinicius Wohnrath</h1>
 
 <p>
-Postdoctoral Researcher<br>
-UNAM
+Postdoctoral Researcher at UNAM
 </p>
 
-<p>
-Historical sociology, sociology of education, and political sociology in Latin America
-</p>
 
 <p>
 <a href="mailto:vinicius.wohnrath@gmail.com">Email</a> ·
@@ -46,13 +42,3 @@ I work at the intersection of historical sociology, sociology of education, poli
 My current research focuses on indigenous teacher formation, critical pedagogy, and political mobilization in Michoacán, Mexico, with ethnographic fieldwork conducted in Cherán K'eri.
 
 I am currently a Postdoctoral Researcher at UNAM, funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and a member of Mexico’s Sistema Nacional de Investigadores e Investigadoras (SNII).
-
-## Current Research
-
-### Indigenous Education and Political Formation
-
-Research on indigenous teacher formation, Freirean pedagogy, political socialization, and processes of educational autonomy in rural and indigenous communities in Mexico.
-
-### Religion, Politics, and Public Space
-
-Research on the intersections between secularism and the sociopolitical configuration of public space in contemporary Latin America, with emphasis on the public role of religious institutions, symbolic disputes, and processes of moral and political legitimization.
