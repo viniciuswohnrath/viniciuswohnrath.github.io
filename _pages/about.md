@@ -4,9 +4,7 @@ title: "Vinicius Parolin Wohnrath"
 author_profile: true
 ---
 
-H!! I am Vinicius Parolin Wohnrath (/viˈnisius/ · /ˈvoːnʁaːt/).
-
-I am currently a Postdoctoral Researcher at the Universidad Nacional Autónoma de México (UNAM), funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and an invited lecturer in the Graduate Program in Education and in the Geohistory undergraduate program at the same institution.
+I am Vinicius Parolin Wohnrath (/viˈnisius/ · /ˈvoːnʁaːt/). I am currently a Postdoctoral Researcher at the Universidad Nacional Autónoma de México (UNAM), funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and an invited lecturer in the Graduate Program in Education and in the Geohistory undergraduate program at the same institution.
 
 I hold a Ph.D. in Education from the University of Campinas (Unicamp, 2017), with a research period at the École des Hautes Études en Sciences Sociales (EHESS, Paris). I have also held postdoctoral fellowships in Sociology of Education at Unicamp and in Social Sciences at the École Normale Supérieure Paris-Saclay (ENS Paris-Saclay).
 
@@ -19,9 +17,9 @@ I am a member of the Sistema Nacional de Investigadores e Investigadoras de Méx
 ## Research Interests
 
 - Sociology of Education
-- Political Sociology
-- Religion and Politics
-- Intellectuals and State Formation
-- Latin American Studies
+- Political Socialization and Intellectual Formation
+- Sociology of Law and Legal Fields
+- Indigenous Education and Critical Pedagogy
+- Sociohistorical and Prosopographic Methods
 
 Thanks for visiting!
