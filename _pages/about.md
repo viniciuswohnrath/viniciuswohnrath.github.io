@@ -1,24 +1,20 @@
 ---
 layout: single
-title: "About"
+title: ""
 permalink: /
 classes: wide
-author_profile: false
+author_profile: true
 ---
-
-<img src="/images/profile.png" alt="Vinicius Wohnrath" width="180" style="border-radius:2px; margin-bottom:2rem;">
-
-# Vinicius Wohnrath
 
 Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)
 
 Historical sociology, sociology of education, and political sociology in Latin America.
 
-<hr>
+I am a sociologist working at the intersection of historical sociology, political sociology, and sociology of education in Latin America.
 
-I am a sociologist of education working at the intersection of historical sociology, political sociology, and the study of institutions in Latin America. My research examines how agents in positions of institutional mediation produce and dispute legitimacy in fields of power through processes of political socialization, intellectual formation, and the appropriation of pedagogical traditions.
+My research examines intellectual formation, political socialization, educational institutions, religion and politics, and disputes over legitimacy across Brazil and Mexico.
 
-## Research
+## Research Agenda
 
 Through sociohistorical and prosopographic approaches, I have investigated the morphology of dominant fractions in the legal and political fields and the institutionalization of rights in Brazil.
 
@@ -38,12 +34,19 @@ Ethnographic research on the appropriation of Freirean pedagogical traditions am
 
 Comparative research on Christianity, visual culture, secularism, and educational institutions in contemporary Latin America (CNPq, in collaboration with researchers from Unicamp and UERJ).
 
+## Selected Publications
+
+- Wohnrath, V. P.; Dias Jr., A. C. *Pierre Bourdieu: genèse d’un sociologue*. Book review. Tempo Social, 2026.
+
+- Wohnrath, V. P.; Arduini, G. R. *Política social, educação e democracia nas notas institucionais do episcopado brasileiro (2019–2024).* ETD: Educação Temática Digital, 2025.
+
+- Wohnrath, V. P. *Católicos e evangélicos na suprema corte brasileira.* Religião e Sociedade, 2023.
+
+- Wohnrath, V. P.; Almeida, A. M. F. *Doutrinadores jurídicos e a afirmação de “novos direitos” no Brasil pós-1988.* Sociologias, 2023.
+
 ## Academic Profiles
 
-- [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
-- [ORCID](https://orcid.org/0000-0001-5717-0906)
-- [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
-- [Lattes CV](http://lattes.cnpq.br/1701305518221688)
+[Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) · [ORCID](https://orcid.org/0000-0001-5717-0906) · [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) · [Lattes CV](http://lattes.cnpq.br/1701305518221688)
 
 ## Contact
 
