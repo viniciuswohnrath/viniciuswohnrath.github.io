@@ -5,12 +5,29 @@ title                    : "Vinicius Wohnrath | Sociologist of Education"
 title_separator          : "-"
 name                     : &name "Vinicius Parolin Wohnrath"
 description              : &description "Sociology of education, and historical sociology in Latin America."
+
 url                      : "https://viniciuswohnrath.github.io"
 baseurl                  : ""
 repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
 
 include:
   - _pages
+
+collections:
+  teaching:
+    output: true
+  publications:
+    output: true
+  talks:
+    output: true
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
 # Site Author
 author:
@@ -29,7 +46,6 @@ author:
 
   email            : "vinicius.wohnrath@gmail.com"
 
-  # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
 
   orcid            : "https://orcid.org/0000-0001-5717-0906"
@@ -38,9 +54,4 @@ author:
 
   lattes           : "http://lattes.cnpq.br/1701305518221688"
 
-  # Social Media / Academic Presence
   github           : "viniciuswohnrath"
-
-  linkedin         :
-
-  twitter          :
