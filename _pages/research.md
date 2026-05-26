@@ -4,31 +4,32 @@ permalink: /research/
 author_profile: true
 ---
 
-My research agenda combines sociology of education, historical sociology, and political sociology in Latin America.
+My research lies at the intersection of sociology of education, political sociology, historical sociology, and socio-historical approaches to institutions, intellectuals, and elites in Latin America.
 
-I am particularly interested in the relationship between educational institutions, political transformation, religion, and state formation.
+I investigate how educational, legal, political, and religious institutions participate in the formation of intellectual and juridical elites, the production of expertise, and disputes over political legitimacy and state formation.
 
-## Main Areas of Research
+My work combines qualitative, socio-historical, and ethnographic approaches to examine processes of educational circulation, institutional differentiation, and political formation across Latin America.
 
-### Sociology of Education
+## Current Research
 
-Research on higher education, educational institutions, intellectual formation, and social inequalities in Latin America.
+### Indigenous Education and Political Formation in Mexico
 
-### Historical Sociology
+My current postdoctoral project at UNAM examines the circulation, appropriation, and reinterpretation of Paulo Freire’s pedagogical thought among rural and indigenous teachers in Michoacán, Mexico.
 
-Studies on state formation, political development, and long-term institutional transformations.
+The project focuses on the Escuela Normal Indígena de Michoacán in Cherán K'eri, an autonomous P'urhépecha community shaped by territorial disputes, political violence, and practices of indigenous self-government.
 
-### Religion and Politics
+Methodologically, the research combines ethnography, oral history, and qualitative analysis to investigate the relationships between education, political socialization, and community organization.
 
-Research on the role of religion in political culture, public life, and democratic processes.
+## Previous Research Agendas
 
-### Latin America
+### Religion, Intellectuals, and Politics in Brazil
 
-Comparative perspectives on Brazil, Mexico, and broader Latin American social transformations.
+Research on Catholic intellectuals, episcopal networks, constitutional politics, and disputes surrounding democracy and rights during Brazil’s democratic transition and the 1987–1988 National Constituent Assembly.
 
-## Current Projects
+### Sociology of Legal Elites
 
-- Political sociology of education in Latin America
-- Religion and public life in Brazil
-- Historical transformations of higher education institutions
-- Intellectuals and state formation
+Studies on doctoral education in law, juridical elites, academic legitimacy, and the institutional production of legal expertise in contemporary Brazil.
+
+### Sociology of Education and Academic Circulation
+
+Research on higher education, intellectual trajectories, international academic circulation, and the institutional production of expertise in Latin America.
