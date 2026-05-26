@@ -10,7 +10,7 @@ classes: wide
 
 <div style="flex:0 0 220px;">
 
-<img src="/images/profile.png" alt="Vinicius Wohnrath" style="width:220px; border-radius:2px; display:block;">
+<img src="/images/profile.png" alt="Vinicius Parolin Wohnrath" style="width:220px; border-radius:2px; display:block;">
 
 </div>
 
@@ -19,9 +19,9 @@ classes: wide
 <h1 style="margin-top:0; margin-bottom:0.8rem; line-height:1.1;">Vinicius Parolin Wohnrath</h1>
 
 Postdoctoral Researcher  
-UNAM
+Universidad Nacional Autónoma de México (UNAM)
 
-Sociology of education, Historical sociology, and political sociology focused on Latin America
+Historical sociology, sociology of education, and political sociology in Latin America
 
 <br>
 
@@ -43,13 +43,13 @@ Morelia, Mexico
 
 I am a sociologist working at the intersection of historical sociology, political sociology, and sociology of education in Latin America.
 
-My research examines intellectual formation, political socialization, educational institutions, religion and politics, and disputes over legitimacy across Brazil and Mexico.
+My research examines political socialization, educational institutions, religion, and disputes over legitimacy in Latin America, particularly in Brazil and Mexico.
 
 ## Research Agenda
 
 Through sociohistorical and prosopographic approaches, I have investigated the morphology of dominant fractions in the legal and political fields and the institutionalization of rights in Brazil.
 
-My current ethnographic research examines the appropriation of critical pedagogical traditions in the political formation of indigenous teachers in Michoacán, with fieldwork conducted in Cherán K'eri, a community governed through an indigenous assembly-based self-governance system in a context of intense violence in the Meseta P'urhépecha.
+My current research examines the appropriation of critical pedagogical traditions in the political formation of indigenous teachers in Michoacán, with fieldwork conducted in Cherán K'eri, a community governed through an indigenous assembly-based self-governance system in the context of violence in the Meseta P'urhépecha.
 
 I am currently a Postdoctoral Researcher at UNAM, funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and an invited lecturer in the Graduate Program in Education and in the Geohistory undergraduate program at the Escuela Nacional de Estudios Superiores, Unidad Morelia (ENES-Morelia, UNAM).
 
