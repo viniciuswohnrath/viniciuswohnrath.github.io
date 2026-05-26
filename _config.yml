@@ -9,28 +9,8 @@ url                      : "https://viniciuswohnrath.github.io"
 baseurl                  : ""
 repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
 
+include:
+  - _pages
+
 # Site Author
 author:
-
-  # Biographic information
-  avatar           : "/images/profile.png"
-  name             : "Vinicius Parolin Wohnrath"
-  bio              : "Political sociology, sociology of education, religion and politics, and historical sociology in Latin America."
-  location         : "Morelia, Mexico"
-  employer         : "Universidad Nacional Autónoma de México (UNAM)"
-  uri              :
-  email            : "vinicius.wohnrath@gmail.com"
-
-  # Academic websites
-  academia         : "https://unam1.academia.edu/ViniciusWohnrath"
-  googlescholar    : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
-  lattes           : "http://lattes.cnpq.br/1701305518221688"
-  orcid            : "https://orcid.org/0000-0001-5717-0906"
-
-  # Repositories and software development
-  github           : "viniciuswohnrath"
-
-  # Social media
-  bluesky          :
-  linkedin         :
-  twitter          :
