@@ -1,22 +1,75 @@
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "air"
+
+title                    : "Vinicius Wohnrath | Sociologist of Education"
+title_separator          : "-"
+
+name                     : "Vinicius Parolin Wohnrath"
+description              : "Sociology of education, historical sociology, and political sociology in Latin America"
+
+url                      : "https://viniciuswohnrath.github.io"
+baseurl                  : ""
+
+repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
+
+include:
+  - _pages
+
+# Site Author
 author:
 
-  avatar           : "/images/profile.png"
+  avatar                 : "/images/profile.png"
 
-  name             : "Vinicius Parolin Wohnrath"
+  name                   : "Vinicius Wohnrath"
 
-  bio              : "Historical sociology, sociology of education, and political sociology in Latin America"
+  bio                    : "Sociology of education, historical sociology, and political sociology in Latin America"
 
-  location         : "Morelia, Mexico"
+  location               : "Mexico"
 
-  employer         : "UNAM"
+  employer               : "UNAM"
 
-  email            : "vinicius.wohnrath@gmail.com"
+  email                  : "vinicius.wohnrath@gmail.com"
 
-  googlescholar    : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
+  googlescholar          : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
 
-  orcid            : "https://orcid.org/0000-0001-5717-0906"
+  orcid                  : "https://orcid.org/0000-0001-5717-0906"
 
-  academia         : "https://unam1.academia.edu/ViniciusWohnrath"
+  academia               : "https://unam1.academia.edu/ViniciusWohnrath"
 
-  lattes           : "http://lattes.cnpq.br/1701305518221688"
+  lattes                 : "http://lattes.cnpq.br/1701305518221688"
 
+  github                 : "viniciuswohnrath"
+
+# Footer
+footer:
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
+
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-5717-0906"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - README
+  - tmp
+  - less
+  - "*.tar.gz"
+  - "*.tgz"
+  - "*.zip"
