@@ -7,7 +7,10 @@ classes: wide
 ---
 
 # Vinicius Wohnrath
-Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)  
+Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)
+Historical sociology, sociology of education, and political sociology in Latin America.
+
+---
 
 I am a sociologist of education working at the intersection of 
 historical sociology, political sociology, and the study of 
@@ -16,8 +19,6 @@ in positions of institutional mediation produce and dispute
 legitimacy in fields of power — through processes of political 
 socialization, intellectual formation, and the appropriation of 
 pedagogical traditions.
-
----
 
 ## Research
 
@@ -41,8 +42,6 @@ Escuela Nacional de Estudios Superiores, Unidad Morelia
 I am a member of the Sistema Nacional de Investigadores e 
 Investigadoras de México (SNII).
 
----
-
 ## Current Projects
 
 **Indigenous Education and Political Formation in Mexico**  
@@ -56,34 +55,6 @@ Comparative research on Christianity, visual culture, secularism,
 and educational institutions in contemporary Latin America 
 (CNPq, with researchers from Unicamp and UERJ).
 
----
-
-## Selected Publications
-
-**Católicos e evangélicos na suprema corte brasileira**  
-*Religião e Sociedade*, 43 (2023)
-
-**Doutrinadores jurídicos e a afirmação de "novos direitos" 
-no Brasil pós-1988**  
-*Sociologias*, 25 (2023)
-
-**Incursión política de las Iglesias en las Asambleas 
-Constituyentes democráticas brasileñas**  
-*Perfiles Latinoamericanos*, 31 (2023)
-
-**Especialistas em direito e regimes autoritários no Brasil**  
-*Revista de Estudos Empíricos em Direito*, 9 (2022)
-
----
-
-## Teaching
-
-Didactics of Social Sciences · Research Methodology · 
-Sociology of Education  
-Escuela Nacional de Estudios Superiores, Unidad Morelia, UNAM
-
----
-
 ## Academic Profiles
 
 [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) · 
@@ -91,8 +62,8 @@ Escuela Nacional de Estudios Superiores, Unidad Morelia, UNAM
 [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) · 
 [Lattes CV](http://lattes.cnpq.br/1701305518221688)
 
----
-
 ## Contact
 
 vinicius.wohnrath@gmail.com
+vparolin@enesmorelia.unam.mx
+v101132@dac.unicamp.br
