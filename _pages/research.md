@@ -2,11 +2,9 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 classes: wide
 ---
-
-# Research
 
 My research is situated at the intersection of historical sociology, sociology of education, political sociology, and Latin American studies.
 
