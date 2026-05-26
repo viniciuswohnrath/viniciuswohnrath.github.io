@@ -1,14 +1,18 @@
 ---
 layout: single
-author_profile: false
 title: "About"
 permalink: /
 classes: wide
+author_profile: false
 ---
 
+<img src="/images/profile.png" alt="Vinicius Wohnrath" width="180" style="border-radius:2px; margin-bottom:2rem;">
+
 # Vinicius Wohnrath
-Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)
-Historical sociology, sociology of education, and political sociology in Latin America.
+
+Postdoctoral Researcher | Universidad Nacional Autónoma de México (UNAM)
+
+Sociology of education, Historical sociology, and political sociology in Latin America.
 
 ---
 
@@ -62,7 +66,7 @@ and educational institutions in contemporary Latin America
 [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) · 
 [Lattes CV](http://lattes.cnpq.br/1701305518221688)
 
-## Contact
+## Contacts
 
 vinicius.wohnrath@gmail.com
 vparolin@enesmorelia.unam.mx
