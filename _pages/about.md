@@ -16,7 +16,8 @@ classes: wide
 
 <div style="flex:1; min-width:280px;">
 
-<h1 style="margin-top:0; margin-bottom:0.7rem;">Vinicius Parolin Wohnrath</h1>
+<h1 style="margin-top:0; margin-bottom:0.8rem; line-height:1.1;">Vinicius Parolin Wohnrath</h1>
+
 Postdoctoral Researcher  
 UNAM
 
@@ -37,6 +38,8 @@ Morelia, Mexico
 </div>
 
 </div>
+
+<div style="height:1.2rem;"></div>
 
 I am a sociologist working at the intersection of historical sociology, political sociology, and sociology of education in Latin America.
 
@@ -63,6 +66,8 @@ Ethnographic research on the appropriation of Freirean pedagogical traditions am
 Comparative research on Christianity, visual culture, secularism, and educational institutions in contemporary Latin America (CNPq, in collaboration with researchers from Unicamp and UERJ).
 
 ## Selected Publications
+
+<div style="margin-top:1.4rem;"></div>
 
 - Wohnrath, V. P.; Dias Jr., A. C. *Pierre Bourdieu: genèse d’un sociologue*. *Tempo Social*, 2026.
 
