@@ -18,22 +18,26 @@ classes: wide
 
 <h1 style="margin-top:0; margin-bottom:0.8rem; line-height:1.1;">Vinicius Parolin Wohnrath</h1>
 
-Postdoctoral Researcher
+<p>
+Postdoctoral Researcher<br>
 UNAM
+</p>
 
-Sociology of education, Historical sociology, and political sociology in Latin America
+<p>
+Sociology of education, historical sociology, and political sociology in Latin America
+</p>
 
-<br>
+<p>
+Mexico
+</p>
 
-Morelia, Mexico
-
-<br><br>
-
-[Email](mailto:vinicius.wohnrath@gmail.com) ·
-[Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-5717-0906) ·
-[Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) ·
-[Lattes CV](http://lattes.cnpq.br/1701305518221688)
+<p>
+<a href="mailto:vinicius.wohnrath@gmail.com">Email</a> ·
+<a href="https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ">Google Scholar</a> ·
+<a href="https://orcid.org/0000-0001-5717-0906">ORCID</a> ·
+<a href="https://unam1.academia.edu/ViniciusWohnrath">Academia.edu</a> ·
+<a href="http://lattes.cnpq.br/1701305518221688">Lattes CV</a>
+</p>
 
 </div>
 
