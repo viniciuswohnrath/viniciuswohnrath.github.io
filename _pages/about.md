@@ -6,10 +6,6 @@ classes: wide
 author_profile: true
 ---
 
-Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)
-
-Historical sociology, sociology of education, and political sociology in Latin America.
-
 I am a sociologist working at the intersection of historical sociology, political sociology, and sociology of education in Latin America.
 
 My research examines intellectual formation, political socialization, educational institutions, religion and politics, and disputes over legitimacy across Brazil and Mexico.
