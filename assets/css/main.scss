@@ -2,132 +2,178 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * AcademicPages / Minimal Mistakes
+ * Faculty-page redesign
  */
 
 @import
-    "vendor/breakpoint/breakpoint",
+  "vendor/breakpoint/breakpoint",
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+  "themes",
+  "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+  "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-    "include/mixins",
-    "vendor/susy/susy",
+  "include/mixins",
+  "vendor/susy/susy",
 
-    "layout/reset",
-    "layout/base",
+  "layout/reset",
+  "layout/base",
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
 
-    "layout/forms",
+  "layout/forms",
 
-   /* Academic typography improvements */
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+  "layout/json_cv",
 
-.page__content {
-  font-size: 1.02rem;
-  line-height: 1.8;
-}
-
-.page__content p {
-  margin-bottom: 1.2em;
-}
-
-.page__content h1 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-size: 2.2rem;
-}
-
-.page__content h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 0.3rem;
-}
-
-.page__content h3 {
-  margin-top: 1.5rem;
-}
-
-.author__avatar img {
-  border-radius: 2px;
-}
-
-.author__bio {
-  font-size: 0.92rem;
-  line-height: 1.5;
-}
-
-.archive {
-  max-width: 900px;
-}
-
-.page {
-  max-width: 1100px;
-}
-
-.sidebar {
-  opacity: 0.96;
-}
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands"
 ;
 
-/* Faculty-page redesign */
+
+/* =========================================================
+   FACULTY PAGE REFINEMENT
+   Princeton / Columbia / LSE inspired
+========================================================= */
 
 .page {
   max-width: 1180px;
 }
 
+
+/* Main typography */
+
 .page__content {
-  font-size: 1.05rem;
-  line-height: 1.9;
+  font-size: 1.07rem;
+  line-height: 1.92;
+  letter-spacing: -0.003em;
 }
+
 
 .page__content p {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.65em;
+  max-width: 820px;
 }
+
+
+/* Headings */
 
 .page__content h1 {
-  font-size: 2.6rem;
+  font-size: 2.9rem;
+  line-height: 1.15;
+  margin-top: 1rem;
   margin-bottom: 1.2rem;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.045em;
+  font-weight: 600;
 }
+
 
 .page__content h2 {
-  margin-top: 3rem;
+  font-size: 1.55rem;
+  margin-top: 3.4rem;
   margin-bottom: 1rem;
-  padding-bottom: 0.4rem;
+  padding-bottom: 0.45rem;
   border-bottom: 1px solid #ececec;
-  font-size: 1.5rem;
+  font-weight: 600;
 }
+
 
 .page__content h3 {
+  font-size: 1.15rem;
   margin-top: 2rem;
   margin-bottom: 0.7rem;
+  font-weight: 600;
 }
 
-.archive {
-  max-width: 920px;
+
+/* Lists */
+
+.page__content ul {
+  max-width: 820px;
 }
+
+
+.page__content ul li {
+  margin-bottom: 0.5rem;
+}
+
+
+/* Navigation */
+
+.masthead {
+  border-bottom: 1px solid #f2f2f2;
+}
+
+
+.greedy-nav {
+  background: #ffffff;
+}
+
+
+.greedy-nav a {
+  font-size: 0.94rem;
+  font-weight: 500;
+}
+
+
+/* Sidebar */
 
 .sidebar {
   display: none;
+}
+
+
+/* Archive width */
+
+.archive {
+  max-width: 940px;
+}
+
+
+/* Images */
+
+.author__avatar img {
+  border-radius: 2px;
+}
+
+
+/* Links */
+
+.page__content a {
+  text-decoration: none;
+}
+
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+
+/* Mobile refinement */
+
+@media screen and (max-width: 768px) {
+
+  .page__content {
+    font-size: 1rem;
+    line-height: 1.82;
+  }
+
+  .page__content h1 {
+    font-size: 2.2rem;
+  }
+
+  .page__content h2 {
+    font-size: 1.35rem;
+  }
+
 }
