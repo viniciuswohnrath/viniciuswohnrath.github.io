@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# Publications
-
 ## Journal Articles
 
 ### 2026
