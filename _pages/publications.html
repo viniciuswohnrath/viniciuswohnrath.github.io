@@ -5,32 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Selected Publications
 
-{% include base_path %}
+### Peer-Reviewed Articles
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- Wohnrath, V. P. & Almeida, A. M. F. (2023). “Legal doctrinarians and the affirmation of new rights in post-1988 Brazil.” *Sociologias*.
 
+- Wohnrath, V. P. (2023). “Catholics and evangelicals in the Brazilian Supreme Court.” *Religião & Sociedade*.
 
+- Wohnrath, V. P. & Arduini, G. R. (2023). “Political incursions of churches in Brazilian democratic constituent assemblies.” *Perfiles Latinoamericanos*.
+
+- Wohnrath, V. P. (2022). “Legal experts and authoritarian regimes in Brazil.” *Revista de Estudos Empíricos em Direito*.
+
+- Wohnrath, V. P. (2017). “The Catholic Church in the Brazilian National Constituent Assembly (1987–1988).” *Pro-Posições*.
+
+### Book Chapters
+
+- Wohnrath, V. P. (2021). “Institutional trajectories of internationally trained law professors in Brazil.” In *Justice and Political Power*.
+
+- Wohnrath, V. P. (2019). “Education and legal elites in contemporary Brazil.” In *Filosofía del Derecho Hoy*.
 
