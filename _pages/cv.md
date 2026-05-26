@@ -4,8 +4,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
-
 ## Current Position
 
 Postdoctoral Researcher  
