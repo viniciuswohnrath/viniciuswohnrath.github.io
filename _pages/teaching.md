@@ -2,7 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
@@ -12,7 +12,7 @@ My teaching experience spans undergraduate and graduate education in Brazil and 
 
 My pedagogical approach combines historical inquiry, critical sociology, qualitative methodologies, and interdisciplinary perspectives on education and public life in Latin America.
 
----
+<hr>
 
 ## Current Teaching
 
@@ -30,7 +30,7 @@ My pedagogical approach combines historical inquiry, critical sociology, qualita
 
 - Didáctica de la Geografía y la Historia
 
----
+<hr>
 
 ## Universidad Vizcaya de las Américas (Mexico)
 
@@ -51,7 +51,7 @@ My pedagogical approach combines historical inquiry, critical sociology, qualita
 
 - Seminario de Titulación II
 
----
+<hr>
 
 ## Previous Teaching Experience
 
