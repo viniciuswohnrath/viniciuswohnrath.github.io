@@ -1,16 +1,32 @@
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "air"
-title                    : "Vinicius Wohnrath | Sociologist of Education"
-title_separator          : "-"
-name                     : &name "Vinicius Parolin Wohnrath"
-description              : &description "Sociology of education, and historical sociology in Latin America."
-url                      : "https://viniciuswohnrath.github.io"
-baseurl                  : ""
-repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
-
-include:
-  - _pages
-
 # Site Author
 author:
+
+  avatar           : "/images/profile.png"
+
+  name             : "Vinicius Parolin Wohnrath"
+
+  bio              : "Historical sociology, sociology of education, and political sociology in Latin America."
+
+  location         : "Morelia, Mexico"
+
+  employer         : "Universidad Nacional Autónoma de México (UNAM)"
+
+  uri              :
+
+  email            : "vinicius.wohnrath@gmail.com"
+
+  # Academic Profiles
+  googlescholar    : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
+
+  orcid            : "https://orcid.org/0000-0001-5717-0906"
+
+  academia         : "https://unam1.academia.edu/ViniciusWohnrath"
+
+  lattes           : "http://lattes.cnpq.br/1701305518221688"
+
+  # Social Media / Academic Presence
+  github           : "viniciuswohnrath"
+
+  linkedin         :
+
+  twitter          :
