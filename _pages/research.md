@@ -30,14 +30,3 @@ This research examined Catholic intellectuals and political mediation during the
 
 Using sociohistorical and prosopographic methods, this project investigated the formation of legal elites, doctoral education, and the circulation of legitimacy within juridical institutions in contemporary Brazil.
 
----
-
-## Research Interests
-
-- Political Sociology
-- Sociology of Education
-- Historical Sociology
-- Religion and Politics
-- Intellectuals and Institutions
-- Latin American Studies
-- Ethnography
