@@ -6,9 +6,8 @@ permalink: /
 classes: wide
 ---
 
-# Vinicius Parolin Wohnrath
+# Vinicius Wohnrath
 Postdoctoral Researcher · Universidad Nacional Autónoma de México (UNAM)  
-(/viˈnisius/ · /ˈvoːnʁaːt/)
 
 I am a sociologist of education working at the intersection of 
 historical sociology, political sociology, and the study of 
