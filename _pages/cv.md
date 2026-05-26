@@ -2,11 +2,9 @@
 layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 classes: wide
 ---
-
-## Current Position
 
 Postdoctoral Researcher  
 Universidad Nacional Autónoma de México (UNAM)
