@@ -34,3 +34,25 @@
   "vendor/font-awesome/solid",
   "vendor/font-awesome/brands"
 ;
+/* =========================================================
+   Faculty Page Refinement
+========================================================= */
+
+body {
+  color: #222;
+}
+
+.page {
+  max-width: 1180px;
+}
+
+.page__content {
+  max-width: 860px;
+  font-size: 1.08rem;
+  line-height: 1.92;
+  letter-spacing: -0.003em;
+}
+
+.page__content p {
+  margin-bottom: 1.45em;
+}
