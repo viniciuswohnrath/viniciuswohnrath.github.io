@@ -26,3 +26,7 @@ Universidad Nacional Autónoma de México (UNAM)
 - [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5717-0906)
 - [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
+
+## Contact
+
+Email: vinicius.wohnrath@gmail.com
