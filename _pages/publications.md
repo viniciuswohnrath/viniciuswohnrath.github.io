@@ -15,7 +15,7 @@ classes: wide
 Wohnrath, V. P.; Dias Jr., A. C.  
 **Pierre Bourdieu: genèse d'un sociologue** (review).  
 *Tempo Social*, 38. 
-[DOI →](https://doi.org/10.11606/0103-2070.ts.2026.242571)
+[DOI](https://doi.org/10.11606/0103-2070.ts.2026.242571)
 
 ### 2025
 
@@ -23,33 +23,33 @@ Wohnrath, V. P.; Arduini, G. R.
 **Política social, educação e democracia nas notas institucionais 
 do episcopado brasileiro (2019-2024).**  
 *ETD: Educação Temática Digital*, 27.  
-[DOI →](https://doi.org/10.20396/etd.v27i00.8679454)
+[DOI](https://doi.org/10.20396/etd.v27i00.8679454)
 
 ### 2023
 
 Wohnrath, V. P.  
 **Católicos e evangélicos na suprema corte brasileira.**  
 *Religião e Sociedade*, 43, pp. 209–234.  
-[DOI →](https://doi.org/10.1590/0100-85872023v43n1cap08)
+[DOI](https://doi.org/10.1590/0100-85872023v43n1cap08)
 
 Wohnrath, V. P.; Almeida, A. M. F.  
 **Doutrinadores jurídicos e a afirmação de "novos direitos" 
 no Brasil pós-1988: o caso das uniões entre pessoas do mesmo sexo.**  
 *Sociologias*, 25, pp. 1–30.  
-[DOI →](https://doi.org/10.1590/18070337-124730)
+[DOI](https://doi.org/10.1590/18070337-124730)
 
 Wohnrath, V. P.; Arduini, G. R.  
 **Incursión política de las Iglesias en las Asambleas 
 Constituyentes democráticas brasileñas.**  
 *Perfiles Latinoamericanos*, 31, pp. 1–23.  
-[DOI →](https://doi.org/10.18504/pl3161-002-2023)
+[DOI](https://doi.org/10.18504/pl3161-002-2023)
 
 ### 2022
 
 Wohnrath, V. P.  
 **Especialistas em direito e regimes autoritários no Brasil.**  
 *Revista de Estudos Empíricos em Direito*, 9, pp. 1–31.  
-[DOI →](https://doi.org/10.19092/reed.v9.539)
+[DOI](https://doi.org/10.19092/reed.v9.539)
 
 ### 2019
 
@@ -57,7 +57,7 @@ Wohnrath, V. P.; Bittencourt, A. B.
 **Como se constroem os ministros do Supremo Tribunal Federal: 
 duas trajetórias em perspectiva.**  
 *Estudos de Sociologia*, 23, pp. 59–80.  
-[DOI →](https://doi.org/10.52780/res.11698)
+[DOI](https://doi.org/10.52780/res.11698)
 
 ### 2018
 
@@ -65,7 +65,7 @@ Wohnrath, V. P.
 **Espaços de formação doutoral no exterior para docentes de 
 pós-graduação em Direito no Brasil.**  
 *Revista Debates* (UFRGS), 12, pp. 53–86.  
-[DOI →](https://doi.org/10.22456/1982-5269.85806)
+[DOI](https://doi.org/10.22456/1982-5269.85806)
 
 ### 2017
 
@@ -81,7 +81,7 @@ Wohnrath, V. P.
 **Trajetórias, redes e itinerários dos políticos construtores 
 da Lei n. 6.697/1979 (Código de Menores).**  
 *Estudos de Sociologia*, 19, pp. 183–204.  
-[DOI →](https://periodicos.fclar.unesp.br/estudos/article/view/5790)
+[DOI](https://periodicos.fclar.unesp.br/estudos/article/view/5790)
 
 ### 2013
 
@@ -90,7 +90,7 @@ Wohnrath, V. P.; Bittencourt, A. B.
 Constituição de 1988.**  
 *Revista Brasileira de Política e Administração da Educação*, 
 29, pp. 283–303.  
-[DOI →](https://doi.org/10.21573/vol29n22013.43524)
+[DOI](https://doi.org/10.21573/vol29n22013.43524)
 
 ---
 
@@ -117,4 +117,4 @@ In: *Filosofia do Direito hoje: temas atuais* (pp. 365–388).
 Zaragoza: Prensas de la Universidad de Zaragoza, 2019.
 
 # My complete and regularly updated publication list is available on Google Scholar:
-- https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ
+[Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
