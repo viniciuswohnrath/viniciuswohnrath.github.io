@@ -1,3 +1,17 @@
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "air"
+title                    : "Vinicius Wohnrath | Sociologist of Education"
+title_separator          : "-"
+name                     : &name "Vinicius Parolin Wohnrath"
+description              : &description "Sociology of education, and historical sociology in Latin America."
+url                      : "https://viniciuswohnrath.github.io"
+baseurl                  : ""
+repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
+
+include:
+  - _pages
+
 # Site Author
 author:
 
