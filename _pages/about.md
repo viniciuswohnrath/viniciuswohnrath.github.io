@@ -18,10 +18,10 @@ classes: wide
 
 <h1 style="margin-top:0; margin-bottom:0.8rem; line-height:1.1;">Vinicius Parolin Wohnrath</h1>
 
-Postdoctoral Researcher  
-Universidad Nacional Autónoma de México (UNAM)
+Postdoctoral Researcher
+UNAM
 
-Historical sociology, sociology of education, and political sociology in Latin America
+Sociology of education, Historical sociology, and political sociology in Latin America
 
 <br>
 
