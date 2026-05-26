@@ -1,32 +1,34 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-## Current Research
+My research agenda combines sociology of education, historical sociology, and political sociology in Latin America.
 
-### Indigenous Education and Political Formation in Michoacán
+I am particularly interested in the relationship between educational institutions, political transformation, religion, and state formation.
 
-My current ethnographic research examines the political formation of indigenous teachers in Cherán K'eri (Michoacán, Mexico), focusing on the circulation and appropriation of critical pedagogical traditions in contexts marked by indigenous autonomy, territorial conflict, and violence.
+## Main Areas of Research
 
-This project investigates how pedagogical practices, political organization, and educational institutions interact in contexts of indigenous self-governance and regional insecurity in contemporary Mexico.
+### Sociology of Education
 
-Funded by:
-Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), Mexico.
+Research on higher education, educational institutions, intellectual formation, and social inequalities in Latin America.
 
----
+### Historical Sociology
 
-## Previous Research
+Studies on state formation, political development, and long-term institutional transformations.
 
-### Religion, Political Elites, and Democratic Transition in Brazil
+### Religion and Politics
 
-This research examined Catholic intellectuals and political mediation during the Brazilian Constituent Assembly (1987–1988), focusing on the institutionalization of rights and disputes over legitimacy during democratization.
+Research on the role of religion in political culture, public life, and democratic processes.
 
----
+### Latin America
 
-### Legal Elites and Doctoral Education in Brazil
+Comparative perspectives on Brazil, Mexico, and broader Latin American social transformations.
 
-Using sociohistorical and prosopographic methods, this project investigated the formation of legal elites, doctoral education, and the circulation of legitimacy within juridical institutions in contemporary Brazil.
+## Current Projects
 
+- Political sociology of education in Latin America
+- Religion and public life in Brazil
+- Historical transformations of higher education institutions
+- Intellectuals and state formation
