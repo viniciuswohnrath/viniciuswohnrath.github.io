@@ -6,23 +6,17 @@ author_profile: false
 classes: wide
 ---
 
-My research examines the intersections between sociology of education, historical sociology, political sociology, and Latin American studies.
-
-I investigate how educational, legal, intellectual, and religious institutions produce political authority, legitimacy, and social hierarchies in Latin America. Across different empirical settings, my work examines elite formation, the circulation of pedagogical and juridical ideas, the political role of religious actors, and the institutionalization of expertise.
-
-Methodologically, I combine socio-historical analysis, ethnography, prosopography, sociology of intellectual fields, and comparative-historical approaches.
-
----
-
 ## Current Research Agenda
 
 ### Indigenous Education and Political Formation
 
-Research on indigenous teacher formation, Freirean pedagogy, political socialization, and educational autonomy in rural and indigenous communities in Mexico.
+Research on indigenous teacher formation, critical pedagogy, and political socialization in rural and indigenous communities in Mexico, based on ethnographic fieldwork in Cherán K’eri.
+Funding: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
 
 ### Religion, Politics, and Public Space
 
-Research on secularism, symbolic disputes, and the sociopolitical configuration of public space in contemporary Latin America, with emphasis on the public role of religious institutions and processes of moral and political legitimization.
+Research on religion, secularism, and disputes over public space in contemporary Latin America, with emphasis on religious institutions, symbolic conflict, and processes of political and moral legitimization.
+Funding: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), in collaboration with researchers at Rio de Janeiro State University (UERJ).
 
 ---
 
@@ -38,15 +32,12 @@ Research on juridical expertise, doctoral education, and elite formation in Braz
 **Institutional Affiliations**
 - Universidade Estadual de Campinas (UNICAMP)
 - École Normale Supérieure Paris-Saclay (ENS Paris-Saclay)
-- École des Hautes Études en Sciences Sociales (EHESS)
 
 ---
 
 ### Catholic Intellectuals, Childhood Rights, and State Formation in Brazil (2013–2017)
 
-Doctoral research on Catholic intellectuals, constitutional debates, and disputes surrounding childhood and family legislation during Brazil’s democratic transition.
-
-The project examined the circulation of religious expertise within state institutions and the role of Catholic actors in the construction of legal and educational frameworks after 1988.
+Doctoral research on Catholic intellectuals, constitutional debates, and disputes surrounding childhood and family legislation during Brazil’s democratic transition. The project examined the circulation of religious expertise within state institutions and the role of Catholic actors in the construction of legal and educational frameworks after 1988.
 
 **Funding**
 - FAPESP Doctoral Fellowship
