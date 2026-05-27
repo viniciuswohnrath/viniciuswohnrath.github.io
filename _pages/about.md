@@ -37,8 +37,8 @@ Postdoctoral Researcher at UNAM
 
 My research examines political socialization, religion, and disputes over legitimacy in Latin America, particularly in Brazil and Mexico.
 
-My work is grounded in sociology of education, historical sociology, and political sociology.
+Grounded in sociology of education, historical sociology, and political sociology, my work focuses on how educational, legal, and religious actors produce authority and institutional legitimacy.
 
-I study indigenous teacher formation, critical pedagogy, and political mobilization in Michoacán, Mexico, based on ethnographic fieldwork in Cherán K’eri.
+In Brazil, I studied legal elites, constitutional processes, and the institutionalization of rights through sociohistorical and prosopographic approaches. In Mexico, I conduct ethnographic research in Cherán K’eri, Michoacán, examining indigenous teacher formation, critical pedagogy, and political mobilization.
 
-I am funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI) and am a member of Mexico’s Sistema Nacional de Investigadores e Investigadoras (SNII).
+I am currently a Postdoctoral Researcher at the Universidad Nacional Autónoma de México (UNAM), funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and a member of Mexico’s Sistema Nacional de Investigadores e Investigadoras (SNII).
