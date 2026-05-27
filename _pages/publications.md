@@ -24,51 +24,51 @@ Wohnrath, V. P.; Arduini, G. R.
 
 Wohnrath, V. P.  
 **Católicos e evangélicos na suprema corte brasileira.**  
-*Religião e Sociedade*, 43, pp. 209–234. [DOI](https://doi.org/10.1590/0100-85872023v43n1cap08)
+*Religião e Sociedade*, 43. [DOI](https://doi.org/10.1590/0100-85872023v43n1cap08)
 
 Wohnrath, V. P.; Almeida, A. M. F.  
 **Doutrinadores jurídicos e a afirmação de “novos direitos” no Brasil pós-1988: o caso das uniões entre pessoas do mesmo sexo.**  
-*Sociologias*, 25, pp. 1–30. [DOI](https://doi.org/10.1590/18070337-124730)
+*Sociologias*, 25. [DOI](https://doi.org/10.1590/18070337-124730)
 
 Wohnrath, V. P.; Arduini, G. R.  
 **Incursión política de las Iglesias en las Asambleas Constituyentes democráticas brasileñas.**  
-*Perfiles Latinoamericanos*, 31, pp. 1–23. [DOI](https://doi.org/10.18504/pl3161-002-2023)
+*Perfiles Latinoamericanos*, 31. [DOI](https://doi.org/10.18504/pl3161-002-2023)
 
 ### 2022
 
 Wohnrath, V. P.  
 **Especialistas em direito e regimes autoritários no Brasil.**  
-*Revista de Estudos Empíricos em Direito*, 9, pp. 1–31. [DOI](https://doi.org/10.19092/reed.v9.539)
+*Revista de Estudos Empíricos em Direito*, 9. [DOI](https://doi.org/10.19092/reed.v9.539)
 
 ### 2019
 
 Wohnrath, V. P.; Bittencourt, A. B.  
 **Como se constroem os ministros do Supremo Tribunal Federal: duas trajetórias em perspectiva.**  
-*Estudos de Sociologia*, 23, pp. 59–80. [DOI](https://doi.org/10.52780/res.11698)
+*Estudos de Sociologia*, 23. [DOI](https://doi.org/10.52780/res.11698)
 
 ### 2018
 
 Wohnrath, V. P.  
 **Espaços de formação doutoral no exterior para docentes de pós-graduação em Direito no Brasil.**  
-*Revista Debates*, 12, pp. 53–86. [DOI](https://doi.org/10.22456/1982-5269.85806)
+*Revista Debates*, 12. [DOI](https://doi.org/10.22456/1982-5269.85806)
 
 ### 2017
 
 Wohnrath, V. P.  
 **Duas dinâmicas, dois resultados: a Igreja Católica na Assembleia Nacional Constituinte 1987–1988.**  
-*Pro-Posições*, 28, pp. 242–270. [DOI](https://doi.org/10.1590/1980-6248-2017-0020)
+*Pro-Posições*, 28. [DOI](https://doi.org/10.1590/1980-6248-2017-0020)
 
 ### 2014
 
 Wohnrath, V. P.  
 **Trajetórias, redes e itinerários dos políticos construtores da Lei n. 6.697/1979 (Código de Menores).**  
-*Estudos de Sociologia*, 19, pp. 183–204. [DOI](https://periodicos.fclar.unesp.br/estudos/article/view/5790)
+*Estudos de Sociologia*, 19. [DOI](https://periodicos.fclar.unesp.br/estudos/article/view/5790)
 
 ### 2013
 
 Wohnrath, V. P.; Bittencourt, A. B.  
 **Secularização e laicidade do Estado brasileiro depois da Constituição de 1988.**  
-*Revista Brasileira de Política e Administração da Educação*, 29, pp. 283–303. [DOI](https://doi.org/10.21573/vol29n22013.43524)
+*Revista Brasileira de Política e Administração da Educação*, 29. [DOI](https://doi.org/10.21573/vol29n22013.43524)
 
 ## Book Chapters
 
