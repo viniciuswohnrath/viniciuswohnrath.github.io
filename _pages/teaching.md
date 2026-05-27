@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-## Current Teaching
+# Current Teaching
 
 ## Universidad Nacional Autónoma de México (UNAM)
 
@@ -24,7 +24,7 @@ classes: wide
 
 <hr>
 
-## Previous Teaching Experience
+# Previous Teaching Experience
 
 ## Universidad Vizcaya de las Américas (Mexico)
 
