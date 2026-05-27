@@ -22,13 +22,16 @@ classes: wide
 Postdoctoral Researcher at UNAM
 </p>
 
-
 <p>
 <a href="mailto:vinicius.wohnrath@gmail.com">Email</a> ·
 <a href="https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ">Google Scholar</a> ·
 <a href="https://orcid.org/0000-0001-5717-0906">ORCID</a> ·
 <a href="https://unam1.academia.edu/ViniciusWohnrath">Academia.edu</a> ·
 <a href="http://lattes.cnpq.br/1701305518221688">Lattes CV</a>
+</p>
+
+<p>
+Sociology of Education and Historical Sociology in Latin America
 </p>
 
 </div>
