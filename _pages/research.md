@@ -10,7 +10,7 @@ classes: wide
 
 ### Indigenous Education and Political Formation
 
-Research on indigenous teacher formation, critical pedagogy, and political socialization in rural and indigenous communities in Mexico, based on ethnographic fieldwork in Cherán K’eri.
+Research on indigenous teacher formation, critical pedagogy, and political socialization in indigenous communities in Mexico, based on ethnographic fieldwork in Cherán K’eri.
 Funding: Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
 
 ### Religion, Politics, and Public Space
@@ -47,10 +47,6 @@ Doctoral research on Catholic intellectuals, constitutional debates, and dispute
 - École des Hautes Études en Sciences Sociales (EHESS)
 
 ---
-
-## International Research Experience
-
-My academic trajectory includes research periods and institutional collaborations in Brazil, France, Argentina, and Mexico.
 
 **Previous Affiliations**
 - Universidad Nacional Autónoma de México (UNAM)
