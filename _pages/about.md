@@ -31,7 +31,7 @@ Postdoctoral Researcher at UNAM
 </p>
 
 <p>
-Sociology of Education and Historical Sociology in Latin America
+Historical Sociology and Education in Latin America
 </p>
 
 </div>
