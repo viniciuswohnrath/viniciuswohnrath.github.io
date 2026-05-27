@@ -6,6 +6,14 @@ author_profile: false
 classes: wide
 ---
 
+## Current Position
+
+Postdoctoral Researcher  
+Universidad Nacional Autónoma de México (UNAM)
+Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
+
+---
+
 ## Education
 
 ### University of Campinas (UNICAMP)
@@ -15,7 +23,7 @@ classes: wide
 
 ### São Paulo State University (UNESP)
 
-- Degree in Law
+- BA in Law
 
 ---
 
@@ -39,21 +47,7 @@ classes: wide
 
 ---
 
-## Academic Affiliations
-
-- Universidad Nacional Autónoma de México (UNAM)
-- University of Campinas (UNICAMP)
-- EHESS Paris
-- ENS Paris-Saclay
-
----
-
-## Academic Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
-- [ORCID](https://orcid.org/0000-0001-5717-0906)
-- [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
-- [Lattes CV](http://lattes.cnpq.br/1701305518221688)
+[Download Full CV](/files/Vinicius_Wohnrath_CV.pdf)
 
 ---
 
