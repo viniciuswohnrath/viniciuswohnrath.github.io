@@ -6,22 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-Postdoctoral Researcher  
-Universidad Nacional Autónoma de México (UNAM)
-
----
-
-## Research Areas
-
-- Sociology of Education
-- Historical Sociology
-- Political Sociology
-- Religion and Politics
-- Sociology of Intellectuals
-- Latin American Studies
-
----
-
 ## Education
 
 ### University of Campinas (UNICAMP)
