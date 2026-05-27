@@ -8,9 +8,11 @@ classes: wide
 
 ## Current Position
 
-Postdoctoral Researcher  
-Universidad Nacional Autónoma de México (UNAM)
-Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
+### Postdoctoral Researcher  
+
+#### Universidad Nacional Autónoma de México (UNAM)
+
+#### Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
 
 ---
 
