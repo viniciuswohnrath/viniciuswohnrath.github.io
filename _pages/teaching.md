@@ -6,12 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-My teaching experience spans undergraduate and graduate education in Brazil and Mexico, with courses in sociology of education, historical sociology, research methodology, teacher education, and social sciences didactics.
-
-My pedagogical approach combines historical inquiry, critical sociology, qualitative methodologies, and interdisciplinary perspectives on education and public life in Latin America.
-
-<hr>
-
 ## Current Teaching
 
 ## Universidad Nacional Autónoma de México (UNAM)
