@@ -24,6 +24,8 @@ classes: wide
 
 <hr>
 
+## Previous Teaching Experience
+
 ## Universidad Vizcaya de las Américas (Mexico)
 
 ### Undergraduate Teaching
@@ -42,10 +44,6 @@ classes: wide
 #### Accounting Program
 
 - Seminario de Titulación II
-
-<hr>
-
-## Previous Teaching Experience
 
 ## Universidad Tecnológica de Morelia (Mexico)
 
