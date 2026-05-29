@@ -38,10 +38,8 @@ Historical Sociology and Education in Latin America
 
 </div>
 
-My research examines political socialization, religion, and disputes over legitimacy in Latin America, particularly in Brazil and Mexico.
+My research examines the production, circulation, and appropriation of knowledge, pedagogical traditions, and forms of legitimacy in Latin America, particularly in Brazil and Mexico.
 
-Grounded in sociology of education, historical sociology, and political sociology, my work focuses on how educational, legal, and religious actors produce authority and institutional legitimacy.
-
-In Brazil, I studied legal elites, constitutional processes, and the institutionalization of rights through sociohistorical and prosopographic approaches. In Mexico, I conduct ethnographic research in Cherán K’eri, Michoacán, examining indigenous teacher formation, critical pedagogy, and political mobilization.
+In Brazil, I studied the participation of legal, political, and religious groups in the institutionalization of rights through sociohistorical and prosopographic approaches. In Mexico, I conduct ethnographic research in Cherán K’eri, Michoacán, on indigenous teacher education and the appropriation of critical pedagogies, particularly Freirean thought.
 
 I am currently a Postdoctoral Researcher at the Universidad Nacional Autónoma de México (UNAM), funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), and a member of Mexico’s Sistema Nacional de Investigadores e Investigadoras (SNII).
