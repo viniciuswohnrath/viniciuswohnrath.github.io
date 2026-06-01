@@ -1,53 +1,49 @@
 ---
+
 layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
 classes: wide
+-------------
+
+## Current Teaching
+
+### Universidad Nacional Autónoma de México (UNAM)
+
+**Master’s Program in Upper Secondary Education (Social Sciences)**
+
+* Didáctica de las Ciencias Sociales I
+
+**Geography and History Teacher Education Program**
+
+* Didáctica de la Geografía y la Historia
+
 ---
 
-# Current Teaching
+## Previous Teaching Experience
 
-## Universidad Nacional Autónoma de México (UNAM)
+### Universidad Vizcaya de las Américas (Mexico)
 
-### Graduate Teaching
+**Education Program**
 
-#### Master’s Program in Upper Secondary Education (Social Sciences)
+* Contextos de la Educación en México
+* Metodología de la Investigación Científica II
+* Seminario de Investigación I
+* Seminario de Investigación II
 
-- Didáctica de las Ciencias Sociales I
+**Business Administration Program**
 
-### Undergraduate Teaching
+* Metodología de la Investigación
 
-#### Geography and History Teacher Education Program
+**Accounting Program**
 
-- Didáctica de la Geografía y la Historia
+* Seminario de Titulación II
 
-<hr>
+### Universidad Tecnológica de Morelia (Mexico)
 
-# Previous Teaching Experience
+**French Language Program**
 
-## Universidad Vizcaya de las Américas (Mexico)
+* Francés I
+* Francés II
 
-### Undergraduate Teaching
-
-#### Education Program
-
-- Contextos de la Educación en México
-- Metodología de la Investigación Científica II
-- Seminario de Investigación I
-- Seminario de Investigación II
-
-#### Business Administration Program
-
-- Metodología de la Investigación
-
-#### Accounting Program
-
-- Seminario de Titulación II
-
-## Universidad Tecnológica de Morelia (Mexico)
-
-### French Language Program
-
-- Francés I
-- Francés II
