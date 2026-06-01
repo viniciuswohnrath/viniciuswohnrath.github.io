@@ -11,7 +11,7 @@ classes: wide
 ### 2026
 
 Wohnrath, V. P.; Dias Jr., A. C.  
-**Pierre Bourdieu: genèse d’un sociologue** (review).  
+**Pierre Bourdieu: genèse d'un sociologue** (review).  
 *Tempo Social*, 38. [DOI](https://doi.org/10.11606/0103-2070.ts.2026.242571)
 
 ### 2025
@@ -27,7 +27,7 @@ Wohnrath, V. P.
 *Religião e Sociedade*, 43. [DOI](https://doi.org/10.1590/0100-85872023v43n1cap08)
 
 Wohnrath, V. P.; Almeida, A. M. F.  
-**Doutrinadores jurídicos e a afirmação de “novos direitos” no Brasil pós-1988: o caso das uniões entre pessoas do mesmo sexo.**  
+**Doutrinadores jurídicos e a afirmação de "novos direitos" no Brasil pós-1988: o caso das uniões entre pessoas do mesmo sexo.**  
 *Sociologias*, 25. [DOI](https://doi.org/10.1590/18070337-124730)
 
 Wohnrath, V. P.; Arduini, G. R.  
@@ -70,19 +70,29 @@ Wohnrath, V. P.; Bittencourt, A. B.
 **Secularização e laicidade do Estado brasileiro depois da Constituição de 1988.**  
 *Revista Brasileira de Política e Administração da Educação*, 29. [DOI](https://doi.org/10.21573/vol29n22013.43524)
 
+---
+
 ## Book Chapters
+
+### 2022
 
 Wohnrath, V. P.; Bittencourt, A. B.  
 **Freiras e padres no espaço social brasileiro: a construção de um banco de dados sobre congregações e ordens religiosas.**  
-In: *Organizações religiosas católicas: espaços e tempos* (pp. 25–62). Rio de Janeiro: EDUERJ, 2022.
+In: *Organizações religiosas católicas: espaços e tempos* (pp. 25–62). Rio de Janeiro: EDUERJ.
+
+### 2021
 
 Wohnrath, V. P.  
 **Os destinos institucionais no Brasil de professores formados no exterior: um estudo exploratório sobre os programas de pós-graduação em Direito.**  
-In: *Justiça e poder político: elites jurídicas, internacionalização e luta anticorrupção* (pp. 189–220). Porto Alegre: Editora da UFRGS, 2021.
+In: *Justiça e poder político: elites jurídicas, internacionalização e luta anticorrupção* (pp. 189–220). Porto Alegre: Editora da UFRGS.
+
+### 2019
 
 Wohnrath, V. P.  
 **Educação e elites jurídicas: espaços de formação doutoral em Direito no Brasil contemporâneo.**  
-In: *Filosofia do Direito hoje: temas atuais* (pp. 365–388). Zaragoza: Prensas de la Universidad de Zaragoza, 2019.
+In: *Filosofia do Direito hoje: temas atuais* (pp. 365–388). Zaragoza: Prensas de la Universidad de Zaragoza.
+
+---
 
 ## Complete Publication List
 
