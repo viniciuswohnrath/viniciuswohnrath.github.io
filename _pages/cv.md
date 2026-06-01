@@ -60,6 +60,3 @@ Member of the Sistema Nacional de Investigadores e Investigadoras (SNII), Social
 ## Full CV
 
 For the complete version of my curriculum vitae, including publications, teaching, and service activities, see my [Lattes CV](http://lattes.cnpq.br/1701305518221688).
-## Full Curriculum Vitae
-
-A complete academic CV is available upon request.
