@@ -33,14 +33,14 @@ classes: wide
 
 ## Research Appointments
 
-*Postdoctoral Research Positions
-Universidad Nacional Autónoma de México (UNAM), Mexico
-École Normale Supérieure Paris-Saclay (ENS Paris-Saclay), France
-University of Campinas (UNICAMP), Brazil
+###Postdoctoral Research Positions
+- Universidad Nacional Autónoma de México (UNAM), Mexico
+- École Normale Supérieure Paris-Saclay (ENS Paris-Saclay), France
+- University of Campinas (UNICAMP), Brazil
 
-*Visiting Research Positions
-École des Hautes Études en Sciences Sociales (EHESS), Paris, France
-Facultad Latinoamericana de Ciencias Sociales (FLACSO), Argentina
+###Visiting Research Positions
+- École des Hautes Études en Sciences Sociales (EHESS), Paris, France
+- Facultad Latinoamericana de Ciencias Sociales (FLACSO), Argentina
 
 ---
 
