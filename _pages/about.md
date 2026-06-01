@@ -14,7 +14,7 @@ classes: wide
 # Vinicius Wohnrath
 
 **Sociology of Education | Historical Sociology | Latin America**
-***Postdoctoral Researcher · UNAM***
+***Postdoctoral Researcher · [UNAM](https://www.unam.mx/)***
 
 * [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
 * [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
@@ -25,8 +25,10 @@ classes: wide
 
 ## About
 
-My research examines how knowledge is produced, circulates, and is appropriated in specific social and institutional contexts, with attention to the disputes over authority and legitimacy that shape these processes.
+My research examines how knowledge is produced, circulates, and is appropriated in specific social and institutional contexts in Latin America, with attention to the disputes over authority and legitimacy that shape these processes.
 
 In Brazil, I investigated the institutionalization of rights in the post-dictatorship period, focusing on the role of legal, political, and religious actors through sociohistorical and prosopographic approaches.
 
 In Mexico, I conduct ethnographic research in Cherán K'eri, Michoacán, on indigenous teacher education and the appropriation of critical pedagogies, particularly Freirean thought.
+
+I am a member of Mexico's National System of Researchers [SNII](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)), in the Social Sciences committee.
