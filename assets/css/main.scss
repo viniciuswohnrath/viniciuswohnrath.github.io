@@ -47,7 +47,8 @@ body {
 }
 
 .page__content {
-  max-width: 860px;
+  padding-top: 1rem;
+  max-width: 760px;
   font-size: 1.08rem;
   line-height: 1.92;
   letter-spacing: -0.003em;
@@ -57,20 +58,20 @@ body {
   margin-bottom: 1.45em;
 }
 .page__content h1 {
-  font-size: 2.5rem;
-  line-height: 1.15;
-  letter-spacing: -0.04em;
-  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.08;
+  letter-spacing: -0.05em;
+  font-weight: 700;
 }
 
 .page__content h2 {
-  margin-top: 3.2rem;
-  margin-bottom: 1.2rem;
-  padding-bottom: 0.45rem;
+  margin-top: 4rem;
+  margin-bottom: 1.3rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid #ececec;
-  font-size: 1.55rem;
+  font-size: 1.65rem;
   font-weight: 600;
-  line-height: 1.3;
+  line-height: 1.25;
 }
 
 .page__content h3 {
@@ -84,24 +85,43 @@ body {
   font-weight: 600;
 }
 
+.page__content ul {
+  margin-bottom: 1.8rem;
+}
+
 .page__content ul li {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.35rem;
 }
 
 .page__content a {
+  color: #0f4c81;
   text-decoration: none;
 }
 
 .page__content a:hover {
+  color: #08365d;
   text-decoration: underline;
+}
+
+.page__content blockquote {
+  border-left: 3px solid #0f4c81;
+  font-style: normal;
+  color: #555;
 }
 
 .masthead {
   border-bottom: 1px solid #f0f0f0;
 }
 
+.masthead__inner-wrap {
+  max-width: 1180px;
+}
+
 .greedy-nav a {
-  font-size: 0.95rem;
+  font-size: 0.98rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  transition: color .2s ease;
 }
 
 .archive {
