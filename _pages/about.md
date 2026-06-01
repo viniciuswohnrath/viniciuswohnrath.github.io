@@ -13,10 +13,15 @@ classes: wide
 
 # Vinicius Wohnrath
 
-**Postdoctoral Researcher · UNAM**
+**Sociology of Education | Historical Sociology | Latin America**
+***Postdoctoral Researcher · UNAM***
 
-(https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) · [Google Scholar](https://orcid.org/0000-0001-5717-0906) · [ORCID](https://unam1.academia.edu/ViniciusWohnrath) · [Academia.edu](http://lattes.cnpq.br/1701305518221688) · [Lattes CV]
-(mailto:vinicius.wohnrath@gmail.com) · [E-mail]
+* [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
+* [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
+* [Lattes CV](http://lattes.cnpq.br/1701305518221688)
+* [ORCID](https://orcid.org/0000-0001-5717-0906)
+* [E-mail](mailto:vinicius.wohnrath@gmail.com)
+
 
 ## About
 
