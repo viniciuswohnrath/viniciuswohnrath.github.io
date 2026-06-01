@@ -13,7 +13,7 @@ classes: wide
 
 # Vinicius Wohnrath
 
-[UNAM](https://www.unam.mx/) ⚫ [SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico))  ⚫ [SECIHTI Fellow](https://secihti.mx/)
+[UNAM](https://www.unam.mx/) • [SECIHTI Fellow](https://secihti.mx/) • [SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico))
 
 Sociology of Education ◦ Historical Sociology ◦ Latin America
 
