@@ -1,5 +1,4 @@
 ---
-
 layout: single
 title: ""
 permalink: /
@@ -13,7 +12,7 @@ classes: wide
 
 # Vinicius Wohnrath
 
-[UNAM](https://www.unam.mx/) • [SECIHTI Fellow](https://secihti.mx/) • [SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico))
+[SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)) • [UNAM](https://www.unam.mx/) • [SECIHTI Fellow](https://secihti.mx/)
 
 ## About
 
@@ -23,10 +22,6 @@ In Brazil, I investigated the institutionalization of rights in the post-dictato
 
 In Mexico, I conduct ethnographic research in Cherán K'eri, Michoacán, on indigenous teacher education and the appropriation of critical pedagogies, particularly Freirean thought.
 
-### Find me
+---
 
-* [E-mail](mailto:vinicius.wohnrath@gmail.com)
-* [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ)
-* [ORCID](https://orcid.org/0000-0001-5717-0906)
-* [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath)
-* [Lattes CV](http://lattes.cnpq.br/1701305518221688)
+[E-mail](mailto:vinicius.wohnrath@gmail.com) • [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) • [ORCID](https://orcid.org/0000-0001-5717-0906) • [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) • [Lattes CV](http://lattes.cnpq.br/1701305518221688)
