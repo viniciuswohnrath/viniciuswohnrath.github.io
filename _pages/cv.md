@@ -14,6 +14,8 @@ classes: wide
 
 #### Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)
 
+#### Member of the Sistema Nacional de Investigadores e Investigadoras (SNII), Mexico.
+
 ---
 
 ## Education
@@ -29,13 +31,17 @@ classes: wide
 
 ---
 
-## Postdoctoral and International Research Experience
+## Research Appointments
 
-- Postdoctoral Researcher — Universidad Nacional Autónoma de México (UNAM)
-- Postdoctoral Researcher — École Normale Supérieure Paris-Saclay (ENS Paris-Saclay)
-- Postdoctoral Researcher — University of Campinas (UNICAMP)
-- Visiting Researcher — École des Hautes Études en Sciences Sociales (EHESS Paris)
-- Visiting Researcher — Facultad Latinoamericana de Ciencias Sociales (FLACSO Argentina)
+*Postdoctoral Research Positions
+Universidad Nacional Autónoma de México (UNAM), Mexico
+École Normale Supérieure Paris-Saclay (ENS Paris-Saclay), France
+University of Campinas (UNICAMP), Brazil
+
+*Visiting Research Positions
+École des Hautes Études en Sciences Sociales (EHESS), Paris, France
+Facultad Latinoamericana de Ciencias Sociales (FLACSO), Argentina
+
 ---
 
 ## Research Funding and Fellowships
@@ -46,10 +52,6 @@ classes: wide
 - CAPES International Doctoral Fellowship (Brasil)
 - FAPESP Master's Fellowship (Brasil)
 - FAPESP Undergraduate Research Fellowship (Brasil)
-
----
-
-[Download Full CV](/files/Vinicius_Wohnrath_CV.pdf)
 
 ---
 
