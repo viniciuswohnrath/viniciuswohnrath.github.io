@@ -2,7 +2,7 @@
 locale                   : "en-US"
 site_theme               : "air"
 
-title                    : "Vinicius Wohnrath | Sociologist of Education"
+title                    : "Vinicius Wohnrath | Vinicius Wohnrath | Sociology of Education"
 title_separator          : "-"
 
 name                     : "Vinicius Parolin Wohnrath"
@@ -38,8 +38,6 @@ author:
   academia               : "https://unam1.academia.edu/ViniciusWohnrath"
 
   lattes                 : "http://lattes.cnpq.br/1701305518221688"
-
-  github                 : "viniciuswohnrath"
 
 # Footer
 footer:
