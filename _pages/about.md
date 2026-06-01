@@ -7,6 +7,10 @@ author_profile: false
 classes: wide
 ---
 
+<p align="center">
+  <img src="/images/Profile.jpeg" alt="Vinicius Wohnrath" width="240">
+</p>
+
 # Vinicius Wohnrath
 
 **Postdoctoral Researcher · UNAM**
