@@ -13,7 +13,7 @@ classes: wide
 
 # Vinicius Wohnrath
 
-**Sociology of Education | Historical Sociology | Latin America**
+Sociology of Education | Historical Sociology | Latin America
 
 ***Postdoctoral Researcher · [UNAM](https://www.unam.mx/)***
 
