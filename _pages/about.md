@@ -32,4 +32,4 @@ In Brazil, I investigated the institutionalization of rights in the post-dictato
 
 In Mexico, I conduct ethnographic research in Cherán K'eri, Michoacán, on indigenous teacher education and the appropriation of critical pedagogies, particularly Freirean thought.
 
-I am a member of Mexico's National System of Researchers - [SNII](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)), in the Social Sciences committee.
+I am a member of Mexico's National System of Researchers — [SNII](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)), in the Social Sciences committee.
