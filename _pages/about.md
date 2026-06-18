@@ -16,11 +16,9 @@ classes: wide
 
 ## About
 
-My research examines how knowledge is produced, legitimated, and appropriated in specific social and institutional contexts in Latin America — with particular attention to the power relations and socialization processes that shape these dynamics.
+My research examines how pedagogical, political, and legal forms of knowledge acquire legitimacy, circulate across institutions, and are appropriated by different social groups in Latin America.
 
-In Brazil, I investigated the institutionalization of rights in the post-dictatorship period, focusing on the role of legal, political, and religious actors through sociohistorical and prosopographic approaches.
-
-In Mexico, I conduct ethnographic research in Cherán K'eri, Michoacán, on indigenous teacher education and the appropriation of critical pedagogies — particularly Freirean thought.
+Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the relationships between knowledge, power, and social action. My work has focused on the institutionalization of human rights in post-authoritarian Brazil and, more recently, on indigenous teacher education and the reconversion of Freirean thought into political and pedagogical capital in Cherán K'eri (Mexico).
 
 ---
 
