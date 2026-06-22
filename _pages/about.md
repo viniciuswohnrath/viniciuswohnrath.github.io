@@ -16,7 +16,7 @@ classes: wide
 
 ## About
 
-My research examines how pedagogical, political, and legal forms of knowledge acquire legitimacy, circulate across institutions, and are appropriated by different social groups in Latin America.
+My research examines how agents and institutions produce, legitimate, and circulate pedagogical, political, and legal knowledge across Latin America.
 
 Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the relationships between knowledge, power, and social action. My work has focused on the institutionalization of human rights in post-authoritarian Brazil and, more recently, on indigenous teacher education and the reconversion of Freirean thought into political and pedagogical capital in Cherán K'eri (Mexico).
 
