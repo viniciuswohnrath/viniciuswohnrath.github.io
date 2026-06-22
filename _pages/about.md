@@ -14,11 +14,11 @@ classes: wide
 
 [SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)) • [UNAM](https://www.unam.mx/) • [SECIHTI Fellow](https://secihti.mx/)
 
+*Ph.D. University of Campinas (Unicamp)*
+
 ## About
 
-My research examines how agents and institutions produce, legitimate, and circulate pedagogical, political, and legal knowledge across Latin America.
-
-Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the relationships between knowledge, power, and social action. My work has focused on the institutionalization of human rights in post-authoritarian Brazil and, more recently, on indigenous teacher education and the reconversion of Freirean thought into political and pedagogical capital in Cherán K'eri (Mexico).
+My research examines how agents and institutions acquire, exercise, and contest authority to define social reality. Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the Brazilian legal field, the intersections of religion, education, and politics, and the appropriation of Freirean thought in indigenous teacher education in Mexico — with particular attention to the reconversion of Freirean ideas into political and pedagogical capital in Cherán K'eri.
 
 ---
 
