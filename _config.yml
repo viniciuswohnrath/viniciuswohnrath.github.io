@@ -1,42 +1,26 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air"
-
 title                    : "Vinicius Wohnrath | Sociology of Education"
 title_separator          : "-"
-
 name                     : "Vinicius Parolin Wohnrath"
-description              : "Sociology of education, historical sociology, and political sociology in Latin America"
-
+description              : "I study the social production of authority — how agents and institutions acquire, exercise, and contest the power to define social reality."
 url                      : "https://viniciuswohnrath.github.io"
 baseurl                  : ""
-
 repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
-
-include:
-  - _pages
+og_image                 : "/images/Profile.jpeg"
 
 # Site Author
 author:
-
-  avatar                 : "/images/profile.jpeg"
-
+  avatar                 : "/images/Profile.jpeg"
   name                   : "Vinicius Wohnrath"
-
-  bio                    : "Sociology of education, historical sociology, and political sociology in Latin America"
-
+  bio                    : "Sociologist of Education. SNII — Social Sciences. UNAM · SECIHTI Fellow."
   location               : "Mexico"
-
   employer               : "UNAM"
-
   email                  : "vinicius.wohnrath@gmail.com"
-
   googlescholar          : "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
-
   orcid                  : "https://orcid.org/0000-0001-5717-0906"
-
   academia               : "https://unam1.academia.edu/ViniciusWohnrath"
-
   lattes                 : "http://lattes.cnpq.br/1701305518221688"
 
 # Footer
@@ -45,7 +29,6 @@ footer:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ"
-
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-5717-0906"
@@ -54,7 +37,6 @@ footer:
 include:
   - .htaccess
   - _pages
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
