@@ -6,20 +6,13 @@ author_profile: false
 classes: wide
 ---
 
-<p align="center">
-  <img src="/images/Profile.jpeg" alt="Vinicius Wohnrath" width="240">
-</p>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=DM+Serif+Display&display=swap" rel="stylesheet">
 
-# Vinicius Wohnrath
-
-[SNII - Social Sciences Committee](https://es.wikipedia.org/wiki/Sistema_Nacional_de_Investigadoras_e_Investigadores_(M%C3%A9xico)) • [UNAM](https://www.unam.mx/) • [SECIHTI Fellow](https://secihti.mx/)
-
-*Ph.D. University of Campinas (Unicamp)*
-
-## About
-
-My research examines how agents and institutions acquire, exercise, and contest authority to define social reality. Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the Brazilian legal field, the intersections of religion, education, and politics, and the appropriation of Freirean thought in indigenous teacher education in Mexico — with particular attention to the reconversion of Freirean ideas into political and pedagogical capital in Cherán K'eri.
-
----
-
-[E-mail](mailto:vinicius.wohnrath@gmail.com) • [Google Scholar](https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ) • [ORCID](https://orcid.org/0000-0001-5717-0906) • [Academia.edu](https://unam1.academia.edu/ViniciusWohnrath) • [Lattes CV](http://lattes.cnpq.br/1701305518221688)
+<style>
+  .vw-root { font-family: 'Inter', sans-serif; max-width: 640px; margin: 0 auto; padding: 3rem 1.5rem; }
+  .vw-nav { display: flex; gap: 2rem; margin-bottom: 4rem; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: #999; }
+  .vw-nav a { color: #999; text-decoration: none; }
+  .vw-nav a:hover { color: #111; }
+  .vw-nav .vw-active { color: #111; }
+  .vw-photo { width: 80px; height: 80px; border-radius: 50%; border: 0.5px solid #ddd; margin-bottom: 1.5rem; object-fit: cover; display: block; }
+  .vw-name { font-family: 'DM Serif Display', serif; font-size: 28px; font-weight: 400;
