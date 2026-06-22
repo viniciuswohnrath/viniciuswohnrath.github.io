@@ -13,8 +13,9 @@ classes: wide
   .vw-meta { font-size: 12px; color: #999; letter-spacing: 0.02em; margin-bottom: 0.4rem; }
   .vw-meta-accent { color: #2D5FA6; }
   .vw-divider { width: 32px; height: 1px; background: #2D5FA6; margin: 1.75rem 0; }
-  .vw-body { font-size: 15px; line-height: 1.75; color: #444; margin-bottom: 1rem; }
+  .vw-body { font-size: 15px; line-height: 1.75; color: #444; margin-bottom: 1.25rem; }
   .vw-body strong { color: #111; font-weight: 500; }
+  .vw-body-lead { font-size: 16px; font-weight: 500; color: #111; line-height: 1.5; margin-bottom: 1.25rem; }
   .vw-links { display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 3rem; padding-top: 2rem; border-top: 0.5px solid #eee; }
   .vw-link { font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: #999; text-decoration: none; }
   .vw-link:hover { color: #2D5FA6; }
@@ -28,12 +29,16 @@ classes: wide
 
   <h1 class="vw-name">Vinicius Wohnrath</h1>
 
-  <p class="vw-meta"><span class="vw-meta-accent">SNII — Social Sciences</span> · UNAM · SECIHTI Fellow</p>
-  <p class="vw-meta">Ph.D. University of Campinas (Unicamp)</p>
+  <p class="vw-meta">SNII — Social Sciences · UNAM · SECIHTI Fellow</p>
+  <p class="vw-meta">Ph.D. University of Campinas</p>
 
   <div class="vw-divider"></div>
 
-  <p class="vw-body">My research examines how <strong>agents and institutions</strong> acquire, exercise, and contest authority to define social reality. Drawing on socio-historical, prosopographical, and ethnographic approaches, I study the Brazilian legal field, the intersections of religion, education, and politics, and the appropriation of Freirean thought in indigenous teacher education in Mexico — with particular attention to the reconversion of Freirean ideas into political and pedagogical capital in <strong>Cherán K'eri</strong>.</p>
+  <p class="vw-body-lead">I study the social production of authority.</p>
+
+  <p class="vw-body">My work examines how particular actors come to acquire the power to define social reality, establish legitimate knowledge, and shape institutional understandings of the social world. Drawing on sociology of knowledge, socio-historical analysis, prosopography, and ethnography, I investigate the relations between expertise, institutions, and power.</p>
+
+  <p class="vw-body">My empirical work spans the Brazilian legal field, the role of religion in educational and political disputes, and the appropriation of Freirean pedagogy in indigenous teacher education in Mexico — three sites where the mechanisms of authorization, consecration, and contestation are particularly legible.</p>
 
   <div class="vw-links">
     <a class="vw-link" href="mailto:vinicius.wohnrath@gmail.com">E-mail</a>
