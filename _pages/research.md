@@ -12,7 +12,7 @@ classes: wide
 
 Research on indigenous teacher formation, critical pedagogy, and political socialization in indigenous communities in Mexico, based on ethnographic fieldwork in Cherán K'eri, Michoacán.
 
-**Funding:** Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI, Mexico)
+**Funding:** Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI, Mexico).
 
 ---
 
@@ -40,9 +40,9 @@ Research on juridical expertise, doctoral education, and elite formation in Braz
 
 Doctoral research on Catholic intellectuals, constitutional debates, and disputes surrounding childhood and family legislation during Brazil's democratic transition. The project examined the circulation of religious expertise within state institutions and the role of Catholic actors in the construction of legal and educational frameworks after 1988.
 
-**Funding:** FAPESP Doctoral Fellowship · CAPES International Doctoral Fellowship
+**Funding:** FAPESP Doctoral Fellowship · CAPES International Doctoral Fellowship.
 
-**Research Period Abroad:** École des Hautes Études en Sciences Sociales (EHESS, Paris)
+**Research Period Abroad:** École des Hautes Études en Sciences Sociales (EHESS, Paris).
 
 ---
 
