@@ -9,10 +9,8 @@ classes: wide
 ## Current Position
 
 **Postdoctoral Researcher** · Universidad Nacional Autónoma de México (UNAM).
-
 Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI, Mexico).
-
-Member of the Sistema Nacional de Investigadores e Investigadoras (SNII), Social Sciences Committee
+Member of the Sistema Nacional de Investigadores e Investigadoras (SNII), Social Sciences Committee.
 
 ---
 
@@ -20,7 +18,7 @@ Member of the Sistema Nacional de Investigadores e Investigadoras (SNII), Social
 
 | Degree | Institution | Year |
 |---|---|---|
-| PhD in Education | University of Campinas (UNICAMP), Brazil | 2017 |
+| PhD in Education | University of Campinas (UNICAMP), Brazil · with doctoral research stay at EHESS, Paris | 2017 |
 | Master's Degree in Education | University of Campinas (UNICAMP), Brazil | 2012 |
 | BA in Law | São Paulo State University (UNESP), Brazil | 2009 |
 
