@@ -34,11 +34,11 @@ classes: wide
 
   <div class="vw-divider"></div>
 
-Welcome, bem-vindo, bienvenido, bienvenue!
+  <p class="vw-welcome">Welcome, bem-vindo, bienvenido, bienvenue</p>
 
-<p class="vw-body-lead">I study the social production of authority.</p>
+  <p class="vw-body-lead">I study the social production of authority.</p>
 
-<p class="vw-body">My work examines how actors, institutions, and expert groups acquire the power to define social reality, establish legitimate classifications, and shape collective understandings of the social world.</p>
+  <p class="vw-body">My work examines how agents and institutions acquire the power to define social reality, establish legitimate classifications, and shape collective understandings of the social world.</p>
 
   <p class="vw-body">Drawing on socio-historical analysis, prosopography, and ethnography, I explore these dynamics in the Brazilian legal field, in disputes at the intersection of religion, education, and politics, and in the appropriation of Freirean pedagogy in indigenous teacher education in Mexico.</p>
 
