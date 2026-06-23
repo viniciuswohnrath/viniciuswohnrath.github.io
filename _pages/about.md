@@ -34,7 +34,7 @@ classes: wide
 
   <div class="vw-divider"></div>
 
-  <p class="vw-welcome">Welcome, bem-vindo, bienvenido, bienvenue</p>
+  <p class="vw-welcome">Welcome, bem-vindo, bienvenido, bienvenue!</p>
 
   <p class="vw-body-lead">I study the social production of authority.</p>
 
