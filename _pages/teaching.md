@@ -26,16 +26,7 @@ classes: wide
 | Contextos de la Educación en México | Education | Undergraduate |
 | Metodología de la Investigación Científica I & II | Education | Undergraduate |
 | Seminario de Investigación I & II | Education | Undergraduate |
-| Seminario de Titulación II | Accounting | Undergraduate |
 | Metodología de la Investigación | Business Administration | Undergraduate |
-
----
-
-### Universidad Tecnológica de Morelia (Mexico)
-
-| Course | Program | Level |
-|---|---|---|
-| Francés I & II | Foreign Languages | Undergraduate |
 
 ---
 
