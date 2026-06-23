@@ -29,16 +29,20 @@ classes: wide
 
   <h1 class="vw-name">Vinicius Wohnrath</h1>
 
-  <p class="vw-meta">SNII — Social Sciences · UNAM · SECIHTI Fellow</p>
+  <p class="vw-meta">UNAM · SNII · SECIHTI Fellow</p>
   <p class="vw-meta">Ph.D. University of Campinas</p>
 
   <div class="vw-divider"></div>
 
-  <p class="vw-body-lead">I study the social production of authority.</p>
 
-  <p class="vw-body">My work examines how particular actors come to acquire the power to define social reality, establish legitimate knowledge, and shape institutional understandings of the social world. Drawing on sociology of knowledge, socio-historical analysis, prosopography, and ethnography, I investigate the relations between expertise, institutions, and power.</p>
 
-  <p class="vw-body">My empirical work spans the Brazilian legal field, the role of religion in educational and political disputes, and the appropriation of Freirean pedagogy in indigenous teacher education in Mexico — three sites where the mechanisms of authorization, consecration, and contestation are particularly legible.</p>
+Welcome — bem-vindo, bienvenido, bienvenue.
+
+ <p class="vw-body-lead">I study the social production of authority.</p>
+
+  <p class="vw-body">My work examines how actors, institutions, and expert groups acquire the power to define social reality, establish legitimate classifications, and shape collective understandings of the social world.</p>
+
+  <p class="vw-body">Drawing on socio-historical analysis, prosopography, and ethnography, I explore these dynamics in the Brazilian legal field, in disputes at the intersection of religion, education, and politics, and in the appropriation of Freirean pedagogy in indigenous teacher education in Mexico.</p>
 
   <div class="vw-links">
     <a class="vw-link" href="mailto:vinicius.wohnrath@gmail.com">E-mail</a>
