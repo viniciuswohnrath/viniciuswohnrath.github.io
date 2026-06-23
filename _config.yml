@@ -10,6 +10,10 @@ baseurl                  : ""
 repository               : "viniciuswohnrath/viniciuswohnrath.github.io"
 og_image                 : "/images/Profile.jpeg"
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Site Author
 author:
   avatar                 : "/images/Profile.jpeg"
