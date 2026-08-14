@@ -45,8 +45,9 @@ classes: wide
   <div class="vw-links">
     <a class="vw-link" href="mailto:vinicius.wohnrath@gmail.com">E-mail</a>
     <a class="vw-link" href="https://scholar.google.com/citations?hl=es&user=jqzpjAYAAAAJ">Google Scholar</a>
-    <a class="vw-link" href="https://orcid.org/0000-0001-5717-0906">ORCID</a>
+    <a class="vw-link" href="https://orcid.org/0000-0001-5717-0906">OrcID</a>
     <a class="vw-link" href="https://unam1.academia.edu/ViniciusWohnrath">Academia.edu</a>
+    <a class="vw-link" href="https://snii.org/ciencias-sociales/parolin-wohnrath-vinicius/">SNII</a>
     <a class="vw-link" href="http://lattes.cnpq.br/1701305518221688">Lattes CV</a>
   </div>
 
