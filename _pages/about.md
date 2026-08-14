@@ -38,9 +38,9 @@ classes: wide
 
   <p class="vw-body-lead">I study the social production of authority.</p>
 
-  <p class="vw-body">My work examines how agents and institutions acquire the power to define social reality, establish legitimate classifications, and shape collective understandings of the social world.</p>
+  <p class="vw-body">My work examines how agents and institutions shape social reality through processes of classification and legitimation.</p>
 
-  <p class="vw-body">Drawing on socio-historical analysis, prosopography, and ethnography, I explore these dynamics in the Brazilian legal field, in disputes at the intersection of religion, education, and politics, and in the appropriation of Freirean pedagogy in indigenous teacher education in Mexico.</p>
+  <p class="vw-body">Drawing on socio-historical analysis, prosopography, and ethnography, I investigate these processes across Brazil and Mexico, at the intersection of law, religion, education, and politics.</p>
 
   <div class="vw-links">
     <a class="vw-link" href="mailto:vinicius.wohnrath@gmail.com">E-mail</a>
